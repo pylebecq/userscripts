@@ -2,6 +2,7 @@
 // @name        Disko Improved Extranet
 // @namespace   https://www.pierreyves.io/
 // @description Some little improvements for the Disko Extranet
+// @author      Pierre-Yves Lebecq
 // @license     MIT
 // @include     http://extranet.disko.fr/*
 // @include     http://extranet-v1.disko.fr/*
